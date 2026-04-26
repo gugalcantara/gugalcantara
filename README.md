@@ -1,47 +1,41 @@
-## Olá! Eu sou o Gustavo 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4ade80&height=60&section=header"/>
 
-Sou estudante de Ciências da Computação e trabalho na [Metalplan (Atlas Copco Group)](https://www.metalplan.com.br). 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Schoolbell&color=4ade80&size=42&center=true&vCenter=true&width=1000&duration=2000&pause=4000&lines=Hey,+I'm+Gustavo+Alc%C3%A2ntara;Welcome+to+my+profile+!)](https://git.io/typing-svg)
 
-No dia a dia, acabo fazendo uso programação pra resolver problemas de estoque, dados e processos.
-
-Gosto de automações, análise de dados e deixar os sistemas funcionando adequadamente. 
-
----
-
-### 🛠️ Tecnologias Dominantes
-
-**Linguagens**
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Dados & Ferramentas**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-**Cloud**
-
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-### 📊 Estatísticas
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Alcantara07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Alcantara07&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+<div style="display: inline_block" align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">
 </div>
 
----
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,dotnet,html,css,azure,aws,supabase,git" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
+<br>
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gugalcantara&show_icons=true&count_private=true&hide_border=true&title_color=ff8904&icon_color=4ade80&text_color=4ade80&bg_color=0d1117&include_all_commits=true" alt="Gustavo Alcântara github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugalcantara&layout=compact&hide_border=true&title_color=f9fafb&text_color=fef3c7&bg_color=0d1117" />
+</div>
+
+<br>
+
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <a href="mailto:gustavo.alcantara.0176@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustavoalcantara07" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+##
 
 ### 📜 Certificações
 
@@ -50,11 +44,11 @@ Gosto de automações, análise de dados e deixar os sistemas funcionando adequa
 - 📦 Microsoft DP-900 – Azure Data Fundamentals – SENAI (2022)
 - 📊 Power BI – Dashboards e Análises Avançadas – Udemy (2026)
 
----
+<!-- <br> -->
 
-### 📬 Contato
+<!-- <div style="display: inline_block" align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gugalcantara&theme=dracula&row=1&no-bg=true&column=5&margin-w=15" />
+</div> -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavoalcantara07)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.alcantara.0176@gmail.com)
-
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4ade80&height=80&section=footer"/> -->
 
