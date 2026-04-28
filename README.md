@@ -39,10 +39,10 @@
 
 ### 📜 Certificações
 
-- ☁️ AWS Cloud Practitioner Foundational – SENAI (2022)
-- 🤖 Microsoft AI-900 – Azure AI Fundamentals – SENAI (2022)
-- 📦 Microsoft DP-900 – Azure Data Fundamentals – SENAI (2022)
-- 📊 Power BI – Dashboards e Análises Avançadas – Udemy (2026)
+- AWS Cloud Practitioner Foundational – SENAI (2022)
+- Microsoft AI-900 – Azure AI Fundamentals – SENAI (2022)
+- Microsoft DP-900 – Azure Data Fundamentals – SENAI (2022)
+- Power BI – Dashboards e Análises Avançadas – Udemy (2026)
 
 <!-- <br> -->
 
